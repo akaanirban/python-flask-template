@@ -15,7 +15,7 @@ Notes:
 
 ## Downloading the templates
 ```
-$ faas template pull https://github.com/openfaas-incubator/python-flask-template
+$ faas template pull https://github.com/akaanirban/python-flask-template
 ```
 
 # Using the python27-flask/python3-flask templates
